@@ -1,6 +1,5 @@
 Excel Transformer (Laravel)
 
-DESCRIPTION
 This project is a Laravel-based Excel processing tool used to clean, transform, and standardize applicant data from Excel files. It supports multiple sheets and applies rule-based transformations to ensure data consistency.
 
 SUPPORTED SHEETS
